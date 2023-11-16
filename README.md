@@ -4,3 +4,7 @@ Frontend Mentor is an online platform that offers real-world coding challenges i
 
 # Challenges
 ## Results summary component
+Solution URL: https://frontend-mentor-challenges-smoky.vercel.app/
+
+![Desktop](./screenshots/results-summary-component-desktop.png)
+![Mobile](./screenshots/results-summary-component-mobile.png)
